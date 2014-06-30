@@ -60,7 +60,7 @@
     + [http://techblog.badoo.com/blog/2013/11/18/5-advanced-javascript-and-web-debugging-techniques-you-should-know-about/](http://techblog.badoo.com/blog/2013/11/18/5-advanced-javascript-and-web-debugging-techniques-you-should-know-about/)
     + [http://habrahabr.ru/post/132698/#comment_4404597](http://habrahabr.ru/post/132698/#comment_4404597)
     + [http://habrahabr.ru/post/117868/](http://habrahabr.ru/post/117868/)
-  [http://learn.javascript.ru/this#%D0%BE%D0%B4%D0%B0%D0%BB%D0%B6%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%B0](http://learn.javascript.ru/ + this#%D0%BE%D0%B4%D0%B0%D0%BB%D0%B6%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%B0)
+    + [http://learn.javascript.ru/this#%D0%BE%D0%B4%D0%B0%D0%BB%D0%B6%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%B0](http://learn.javascript.ru/this#%D0%BE%D0%B4%D0%B0%D0%BB%D0%B6%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%B0)
     + [http://www.2ality.com/2013/11/immediately-invoked.html](http://www.2ality.com/2013/11/immediately-invoked.html)
     + [http://tech.pro/blog/1402/five-patterns-to-help-you-tame-asynchronous-javascript](http://tech.pro/blog/1402/five-patterns-to-help-you-tame-asynchronous-javascript)
     + [http://addyosmani.com/writing-modular-js/](http://addyosmani.com/writing-modular-js/)
@@ -203,7 +203,7 @@
     + [http://learn.javascript.ru/](http://learn.javascript.ru/)
     + [https://speakerdeck.com/addyosmani/automating-front-end-workflow](https://speakerdeck.com/addyosmani/automating-front-end-workflow)
     + [http://chimera.labs.oreilly.com/books/1234000000262/ch03.html](http://chimera.labs.oreilly.com/books/1234000000262/ch03.html)
-  egghead.io/lessons
+    + [http://egghead.io/lessons](egghead.io/lessons)
     + [http://www.youtube.com/watch?v=RQTDMk4WCp4&feature=youtu.be](http://www.youtube.com/watch?v=RQTDMk4WCp4&feature=youtu.be)
     + [http://superherojs.com/](http://superherojs.com/)
     + [https://github.com/darcyclarke/Front-end-Developer-Interview-Questions/blob/master/Russian/README_RU.md](https://github.com/darcyclarke/Front-end-Developer-Interview-Questions/blob/master/Russian/README_RU.md)
