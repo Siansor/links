@@ -82,7 +82,7 @@
     + [http://code.google.com/p/google-js-test/](http://code.google.com/p/google-js-test/)
     + [http://visionmedia.github.io/mocha/](http://visionmedia.github.io/mocha/)
     + [http://momentjs.com/test/](http://momentjs.com/test/)
-    + [http://pivotal.github.io/jasmine/](http://pivotal.github.io/jasmine/)
+    + [https://jasmine.github.io/](https://jasmine.github.io/)
     + [http://www.jorisooms.be/testing-your-node-api-with-supertest/](http://www.jorisooms.be/testing-your-node-api-with-supertest/)
     + [http://timgilbert.wordpress.com/2012/11/28/busterjs-vs-chaimocha/](http://timgilbert.wordpress.com/2012/11/28/busterjs-vs-chaimocha/)
     + [https://github.com/angular/protractor](https://github.com/angular/protractor)
